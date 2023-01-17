@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color:brown;
+    background-color: black;
+    
+}
+
+.container{
+    width: 400px;
+    height: 500px;
+    background-color: grey;
+    box-shadow: 10px;
+    margin: auto;
+   
+}
+#screen{
+   margin-top: 10px;
+    background-color: bisque;
+    height: 55px;
+    width: 370px;
+    margin-left:  10px;
+    text-align: right;
+    font-size: 50px;
+    border-radius: 10px;
+}
+.button{
+    height:55px;
+    width:50px;
+    margin:20px;
+    background-color: black;
+    font-size: 20px;
+    color: aliceblue;
+    margin-left:25px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+.clear{
+    background-color: darkred;
+}
+.button:hover{
+    border: 5px solid whitesmoke;
+}
